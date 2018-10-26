@@ -23,4 +23,6 @@ In this projects, students will explore distributed computing programming by usi
 
 ## Checking out a specific project
 Each project within this repository is on its own branch. Each project has their own branch. Simply clone the branch
-```git clone -b <project directory> <remote_repo> <project directory>```
+```
+git clone -b <project directory> <remote_repo> <project directory>
+```
