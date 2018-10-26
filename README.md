@@ -1,13 +1,13 @@
 # CS-Projects
-This repository will hold projects designed for Computer Science students
+This repository will hold projects designed for Computer Science Students. 
 
 ## Table Of Contents
 1. [Distributed Computing Projects](#distributed-computing-projects)
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
     * [Map-Reduce: Word Counting](#map-reduce--word-counting)
-2. [Operating System Projects](#operating-system-projects)
-3. Checking out a s
+2. [Checking Out a Project](#checking-out-a-project)
+3. [Project Maintenance](#project-maintenance)
 
 
 ## Distributed Computing Projects <a name="distributed-computing-projects"></a>
@@ -21,8 +21,21 @@ In this projects, students will explore distributed computing programming by usi
 ## Operating System Projects <a name="operating-system-projects"></a> 
 
 
-## Checking out a specific project
-Each project within this repository is on its own branch. Simply clone the project branch
+## Checking Out A Project <a name="checking-out-a-project"></a> 
+Each project within this repository is on its own branch. Simply clone the project branch and
 ```
-git clone -b <project directory> <remote_repo> <project directory>
+git clone -b <project directory> https://github.com/DaveedDomingo/CS-Projects.git <project directory>
 ```
+For example cloning the Bullet Board Web Service Project can be done
+
+
+## Project Maintenance <a name="project-maintenance"></a>
+In order to add a project to respository:
+1. Create an orphan branch for the project
+2. Push project to branch
+3. Merge into master branch
+
+In order to modify a project in this repository:
+1. Checkout the project branch
+2. Push changes to branch
+3. Merge into master branch
