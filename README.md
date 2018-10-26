@@ -18,8 +18,6 @@ In this project, students will explore RESTful Design by implement a RESTful web
 ### Map-Reduce: Word Counting <a name="map-reduce--word-counting"></a>
 In this projects, students will explore distributed computing programming by using the Map Reduce framework to implement their own word count. 
 
-## Operating System Projects <a name="operating-system-projects"></a> 
-
 
 ## Checking Out A Project <a name="checking-out-a-project"></a> 
 Each project within this repository is on its own branch. Simply clone the project branch and
