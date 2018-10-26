@@ -5,8 +5,11 @@ This repository will hold projects designed for Computer Science students
 1. [Distributed Computing Projects](#Distributed Computing Projects)
   * [RPC: The Bulletin Board Web Service](#RPC: The Bulletin Board Web Service)
 
+
+<a name="Distributed Computing Projects"/>
 ## Distributed Computing Projects
 
+<a name="RPC: The Bulletin Board Web Service"/>
 ### RPC: The Bulletin Board Web Service
 In this projects, Remote Procedure Calls using the modern framework of gRPC and Google Protocol Buffers.
 
