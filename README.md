@@ -31,7 +31,7 @@ For example cloning the Bullet Board Web Service Project can be done
 In order to add a project to respository:
 1. Create an orphan branch for the project
 2. Push project to branch
-3. Merge into master branch
+3. Merge into master branch (Do not delete original branch)
 
 In order to modify a project in this repository:
 1. Checkout the project branch
