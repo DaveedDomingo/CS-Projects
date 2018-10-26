@@ -29,9 +29,11 @@ For example cloning the Bullet Board Web Service Project can be done
 
 ## Project Maintenance <a name="project-maintenance"></a>
 In order to add a project to respository:
-1. Create an orphan branch for the project
-2. Push project to branch
-3. Merge into master branch (Do not delete original branch)
+1. Checkout the repository 
+2. Create an orphan branch for the project ``` git checkout --orphan <branchname> ```
+3. Ensure your working directory is clean ``` git rm --cached -r ```
+4. Make a folder for your project and add project within the folder
+5. Merge into master branch (Do not delete original branch)
 
 In order to modify a project in this repository:
 1. Checkout the project branch
