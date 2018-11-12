@@ -6,8 +6,6 @@ This repository will hold projects designed for Computer Science Students.
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
     * [Map-Reduce: Word Counting](#map-reduce--word-counting)
-2. [Checking Out a Project](#checking-out-a-project)
-3. [Project Maintenance](#project-maintenance)
 
 
 ## Distributed Computing Projects <a name="distributed-computing-projects"></a>
