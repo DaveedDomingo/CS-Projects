@@ -15,6 +15,8 @@ In this projects, Remote Procedure Calls using the modern framework of gRPC and 
 Project Link: https://github.com/DaveedDomingo/gRPC-BulletinBoard-Project
 ### REST: A Foodie Web Service <a name="rest--a-restful-web-service"></a> 
 In this project, students will explore RESTful Design by implement a RESTful web service that also makes RESTful requests to external APIs.  
+
+Project Link: https://github.com/DaveedDomingo/Foodie-Web-Service-Project
 ### Map-Reduce: Word Counting <a name="map-reduce--word-counting"></a>
 In this projects, students will explore distributed computing programming by using the Map Reduce framework to implement their own word count. 
 
