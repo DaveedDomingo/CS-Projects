@@ -10,7 +10,7 @@ This repository will hold projects designed for Computer Science Students.
 
 ## Distributed Computing Projects <a name="distributed-computing-projects"></a>
 ### RPC: The Bulletin Board Web Service <a name="rpc--the-bulletin-board-web-service"></a>
-In this projects, Remote Procedure Calls using the modern framework of gRPC and Google Protocol Buffers.
+In this projects, students will explore Remote Procedure Calls using the modern framework of gRPC and Google Protocol Buffers.
 
 Project Link: https://github.com/DaveedDomingo/GRPC-Bulletin-Board-Project
 ### REST: A Foodie Web Service <a name="rest--a-restful-web-service"></a> 
