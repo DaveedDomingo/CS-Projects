@@ -1,12 +1,13 @@
 # CS-Projects
-This repository will hold projects designed for Computer Science Students. 
+This repository will hold projects designed for Computer Science Students.
 
 ## Table Of Contents
 1. [Distributed Computing Projects](#distributed-computing-projects)
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
     * [Map-Reduce: Word Counting](#map-reduce--word-counting)
-
+2. [Other Sources for CS Projects](#other-sources-for-cs-projects)
+    * [GeeksForGeeks.org](#geeksforgeeks)
 
 ## Distributed Computing Projects <a name="distributed-computing-projects"></a>
 ### RPC: The Bulletin Board Web Service <a name="rpc--the-bulletin-board-web-service"></a>
@@ -20,3 +21,6 @@ Project Link: https://github.com/DaveedDomingo/Foodie-Web-Service-Project
 ### Map-Reduce: Word Counting <a name="map-reduce--word-counting"></a>
 In this projects, students will explore distributed computing programming by using the Map Reduce framework to implement their own word count. 
 
+## Other Sources for CS Projects <a name="other-sources-for-cs-projects"></a>
+### GeeksForGeeks.org <a name="geeksforgeeks"></a>
+GeeksForGeeks.org has a good collection of CS Projects covering various topics and programming languages. https://www.geeksforgeeks.org/computer-science-projects/
