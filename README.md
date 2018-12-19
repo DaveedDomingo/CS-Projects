@@ -21,6 +21,8 @@ Project Link: https://github.com/DaveedDomingo/Foodie-Web-Service-Project
 ### Map-Reduce: Word Counting <a name="map-reduce--word-counting"></a>
 In this projects, students will explore distributed computing programming by using the Map Reduce framework to implement their own word count. 
 
+Project Link: https://github.com/DaveedDomingo/MapReduce-Reddit-Project
+
 ## Other Sources for CS Projects <a name="other-sources-for-cs-projects"></a>
 ### GeeksForGeeks.org <a name="geeksforgeeks"></a>
 GeeksForGeeks.org has a good collection of CS Projects covering various topics and programming languages. https://www.geeksforgeeks.org/computer-science-projects/
