@@ -8,6 +8,7 @@ This repository will hold projects designed for Computer Science Students, desig
     * [Map-Reduce: Processing Reddit Data](#map-reduce--word-counting)
 2. [Other Sources for CS Projects](#other-sources-for-cs-projects)
     * [GeeksForGeeks.org](#geeksforgeeks)
+    * [Phrack.org](#phrack)
 
 ## Distributed Computing Projects <a name="distributed-computing-projects"></a>
 ### RPC: The Bulletin Board Web Service <a name="rpc--the-bulletin-board-web-service"></a>
@@ -26,3 +27,7 @@ Project Link: https://github.com/DaveedDomingo/MapReduce-Reddit-Project
 ## Other Sources for CS Projects <a name="other-sources-for-cs-projects"></a>
 ### GeeksForGeeks.org <a name="geeksforgeeks"></a>
 GeeksForGeeks.org has a good collection of CS Projects covering various topics and programming languages. https://www.geeksforgeeks.org/computer-science-projects/
+
+### Phrack.org <a name="phrack"></a>
+This hacker magazine could has articles that could inspire some neat computer security projects
+http://www.phrack.org/
