@@ -29,5 +29,5 @@ Project Link: https://github.com/DaveedDomingo/MapReduce-Reddit-Project
 GeeksForGeeks.org has a good collection of CS Projects covering various topics and programming languages. https://www.geeksforgeeks.org/computer-science-projects/
 
 ### Phrack.org <a name="phrack"></a>
-This hacker magazine could has articles that could inspire some neat computer security projects
+This hacker magazine could has articles that could inspire some neat computer security projects.
 http://www.phrack.org/
