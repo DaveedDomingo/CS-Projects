@@ -1,5 +1,5 @@
 # CS-Projects
-This repository will hold projects designed for Computer Science Students, designed by me.
+This repository will hold projects for Computer Science students, designed by me.
 
 ## Table Of Contents
 1. [Distributed Computing Projects](#distributed-computing-projects)
