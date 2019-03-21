@@ -6,7 +6,9 @@ This repository will hold projects designed for Computer Science Students, desig
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
     * [Map-Reduce: Processing Reddit Data](#map-reduce--word-counting)
-2. [Other Sources for CS Projects](#other-sources-for-cs-projects)
+2. [Computer Security Projects](#computer-security-project)
+    * [Crypto: Cracking Simple Substitution Ciphers](#cracking-sub-cipher)
+3. [Other Sources for CS Projects](#other-sources-for-cs-projects)
     * [GeeksForGeeks.org](#geeksforgeeks)
     * [Phrack.org](#phrack)
 
@@ -20,9 +22,17 @@ In this project, students will explore RESTful Design by implement a RESTful web
 
 Project Link: https://github.com/DaveedDomingo/Foodie-Web-Service-Project
 ### Map-Reduce: Processing Reddit Data <a name="map-reduce--word-counting"></a>
-In this projects, students will explore distributed computing programming by using the Map Reduce framework to perform data processing on real Reddit Data in a distributed manner.
+In this project, students will explore distributed computing programming by using the Map Reduce framework to perform data processing on real Reddit Data in a distributed manner.
 
 Project Link: https://github.com/DaveedDomingo/MapReduce-Reddit-Project
+
+
+## Computer Security Projects <a name="computer-security-projects"></a>
+### Crypto: Cracking Simple Substitution Ciphers <a name="cracking-sub-cipher"></a>
+In this project, students will explore the complexity of simple substitution ciphers and try and come up with programs that can automatically break them using brute force/frequency analysis.
+
+Project Link: https://github.com/DaveedDomingo/Cracking-Simple-Ciphers-Project
+
 
 ## Other Sources for CS Projects <a name="other-sources-for-cs-projects"></a>
 ### GeeksForGeeks.org <a name="geeksforgeeks"></a>
