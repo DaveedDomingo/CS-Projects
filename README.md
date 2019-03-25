@@ -59,5 +59,5 @@ http://www.phrack.org/
 
 ## Ideas
 - Distributed Filesystems (https://dl.acm.org/citation.cfm?id=3287473)
-- Distributed Key Value Store 
+- Distributed Key Value Store (http://www.cs.utexas.edu/~vijay/cs380D-s18/project1.pdf)
 
