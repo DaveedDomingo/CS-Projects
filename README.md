@@ -55,3 +55,9 @@ GeeksForGeeks.org has a good collection of CS Projects covering various topics a
 ### Phrack.org 
 This hacker magazine could has articles that could inspire some neat computer security projects.
 http://www.phrack.org/
+
+
+## Ideas
+- Distributed Filesystems (https://dl.acm.org/citation.cfm?id=3287473)
+- Distributed Key Value Store 
+
