@@ -46,7 +46,7 @@ Project Link: https://github.com/DaveedDomingo/Cracking-Simple-Ciphers-Project
 
 <a name="encrypt-files-java"></a>
 ### Encryption: Encrypting Files with Java
-In this projects, students will explore how to encrypt and decrypt files in Java using public-key cryptography and symmetric key cryptography to carry out secure file sharing.
+In this assignment, students will explore how to encrypt and decrypt files in Java using public-key cryptography and symmetric key cryptography to carry out secure file sharing.
 
 Project Link: https://github.com/DaveedDomingo/Cryptr-Java-Encryption-Assignment
 
