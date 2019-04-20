@@ -8,6 +8,7 @@ This repository will hold projects for Computer Science students, designed by me
     * [Map-Reduce: Processing Reddit Data](#map-reduce--word-counting)
 2. [Computer Security Projects](#computer-security-projects)
     * [Crypto: Cracking Simple Substitution Ciphers](#cracking-sub-cipher)
+    * [Encryption: Encrypting Files with Java](#encrypt-files-java)
 3. [Other Sources for CS Projects](#other-sources-for-cs-projects)
     * [GeeksForGeeks.org](#geeksforgeeks)
     * [Phrack.org](#phrack)
@@ -43,6 +44,11 @@ In this project, students will explore the complexity of simple substitution cip
 
 Project Link: https://github.com/DaveedDomingo/Cracking-Simple-Ciphers-Project
 
+<a name="encrypt-files-java"></a>
+### Encryption: Encrypting Files with Java
+In this projects, students will explore how to encrypt and decrypt files in Java using public-key cryptography and symmetric key cryptography to carry out secure file sharing.
+
+Project Link: https://github.com/DaveedDomingo/Cryptr-Java-Encryption-Assignment
 
 <a name="other-sources-for-cs-projects"></a>
 ## Other Sources for CS Projects 
