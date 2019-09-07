@@ -16,10 +16,10 @@ This repository will hold projects for Computer Science students, designed by me
     * [Phrack.org](#phrack)
 
 
-<a name="distributed-computing-projects"></a>
+<a name="operating-systems-projects"></a>
 ## Operating Systems Projects 
 
-<a name="rpc--the-bulletin-board-web-service"></a>
+<a name="os-overhead--system-calls-and-signals"></a>
 ### OS Overhead: System Calls and Signals
 In this assignment, students will explore the cost of context switching and OS invocation by timing System Calls and Signal Handling.
 
