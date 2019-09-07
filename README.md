@@ -3,7 +3,7 @@ This repository will hold projects for Computer Science students, designed by me
 
 ## Table Of Contents
 1. [Operating Systems](#operating-systems-projects)
-    * [OS Overhead: System Calls and Signals](os-overhead--system-calls-and-signals)
+    * [OS Overhead: System Calls and Signals](#os-overhead--system-calls-and-signals)
 2. [Distributed Computing Projects](#distributed-computing-projects)
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
