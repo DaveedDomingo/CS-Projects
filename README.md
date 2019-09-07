@@ -2,16 +2,29 @@
 This repository will hold projects for Computer Science students, designed by me.
 
 ## Table Of Contents
-1. [Distributed Computing Projects](#distributed-computing-projects)
+1. [Operating Systems](#operating-systems-projects)
+    * [OS Overhead: System Calls and Signals](os-overhead--system-calls-and-signals)
+2. [Distributed Computing Projects](#distributed-computing-projects)
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
     * [Map-Reduce: Processing Reddit Data](#map-reduce--word-counting)
-2. [Computer Security Projects](#computer-security-projects)
+3. [Computer Security Projects](#computer-security-projects)
     * [Crypto: Cracking Simple Substitution Ciphers](#cracking-sub-cipher)
     * [Encryption: Encrypting Files with Java](#encrypt-files-java)
-3. [Other Sources for CS Projects](#other-sources-for-cs-projects)
+4. [Other Sources for CS Projects](#other-sources-for-cs-projects)
     * [GeeksForGeeks.org](#geeksforgeeks)
     * [Phrack.org](#phrack)
+
+
+<a name="distributed-computing-projects"></a>
+## Operating Systems Projects 
+
+<a name="rpc--the-bulletin-board-web-service"></a>
+### OS Overhead: System Calls and Signals
+In this assignment, students will explore the cost of context switching and OS invocation by timing System Calls and Signal Handling.
+
+Project Link: https://github.com/DaveedDomingo/OS-Invocation-Assignment
+
 
 <a name="distributed-computing-projects"></a>
 ## Distributed Computing Projects 
