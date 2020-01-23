@@ -4,6 +4,7 @@ This repository will hold projects for Computer Science students, designed by me
 ## Table Of Contents
 1. [Operating Systems](#operating-systems-projects)
     * [OS Overhead: System Calls and Signals](#os-overhead--system-calls-and-signals)
+    * [CPU Virtualization: User Level Threads and Scheduler](#cpu-virtualization-threads-and-scheduler)
 2. [Distributed Computing Projects](#distributed-computing-projects)
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
@@ -25,6 +26,11 @@ In this assignment, students will explore the cost of context switching and OS i
 
 Project Link: https://github.com/DaveedDomingo/OS-Invocation-Assignment
 
+<a name="cpu-virtualization-threads-and-scheduler"></a>
+### CPU Virtualization: User Level Threads and Scheduler
+In this assignments student will explore CPU virutalization by implementing their own user-level threading library and scheduler. 
+
+Project Link: https://github.com/DaveedDomingo/User-Level-Thread-Library-Project
 
 <a name="distributed-computing-projects"></a>
 ## Distributed Computing Projects 
