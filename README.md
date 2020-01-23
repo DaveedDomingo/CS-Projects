@@ -28,7 +28,7 @@ Project Link: https://github.com/DaveedDomingo/OS-Invocation-Assignment
 
 <a name="cpu-virtualization-threads-and-scheduler"></a>
 ### CPU Virtualization: User Level Threads and Scheduler
-In this assignments student will explore CPU virutalization by implementing their own user-level threading library and scheduler. 
+In this assignments students will explore CPU virutalization by implementing their own user-level threading library and scheduler. 
 
 Project Link: https://github.com/DaveedDomingo/User-Level-Thread-Library-Project
 
