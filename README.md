@@ -9,6 +9,7 @@ This repository will hold projects for Computer Science students, designed by me
     * [RPC: The Bulletin Board Web Service](#rpc--the-bulletin-board-web-service)
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
     * [Map-Reduce: Processing Reddit Data](#map-reduce--word-counting)
+    * [Networking: Object Store Service](#object-store-service)
 3. [Computer Security Projects](#computer-security-projects)
     * [Crypto: Cracking Simple Substitution Ciphers](#cracking-sub-cipher)
     * [Encryption: Encrypting Files with Java](#encrypt-files-java)
@@ -53,6 +54,11 @@ In this project, students will explore distributed computing programming by usin
 
 Project Link: https://github.com/DaveedDomingo/MapReduce-Reddit-Project
 
+<a name="object-store-service"></a>
+### Networking: Remote Object Store Service
+In this project, students will explore the complexities of building communication channels as well as remote services by implementing their own remote object storage service.
+
+Project Link: https://github.com/DaveedDomingo/Object-Store-Project
 
 <a name="computer-security-projects"></a>
 ## Computer Security Projects
