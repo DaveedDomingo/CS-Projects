@@ -10,6 +10,7 @@ This repository will hold projects for Computer Science students, designed by me
     * [REST: A Restful Web Service](#rest--a-restful-web-service)
     * [Map-Reduce: Processing Reddit Data](#map-reduce--word-counting)
     * [Networking: Object Store Service](#object-store)
+    * [Spark: Processing Reddit and Netflix Data](#spark)
 3. [Computer Security Projects](#computer-security-projects)
     * [Crypto: Cracking Simple Substitution Ciphers](#cracking-sub-cipher)
     * [Encryption: Encrypting Files with Java](#encrypt-files-java)
@@ -59,6 +60,12 @@ Project Link: https://github.com/DaveedDomingo/MapReduce-Reddit-Project
 In this project, students will explore the complexities of building communication channels as well as remote services by implementing their own remote object storage service.
 
 Project Link: https://github.com/DaveedDomingo/Object-Store-Project
+
+<a name="spark"></a>
+### Spark: Processing Reddit and Netflix Data
+In this project, students will explore distributed computing programming by using the Spark framework to perform data processing on real Reddit and Netflix Data in a distributed manner.
+
+Project Link: https://github.com/DaveedDomingo/Spark-Reddit-Netflix-Project
 
 <a name="computer-security-projects"></a>
 ## Computer Security Projects
